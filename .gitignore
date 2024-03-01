@@ -1,0 +1,4 @@
+handler/
+__pycache__/
+conversations/
+chromedriver.exe
